@@ -1,3 +1,3 @@
-Landing Page com Bootstrap 5
+Projeto AluraMIDI com JavaScript
 
 Site: https://diogohsp.github.io/AluraMIDIJS/
